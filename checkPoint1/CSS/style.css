@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Raleway:wght@200&family=Shippori+Antique+B1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Raleway:wght@200&family=Shippori+Antique+B1&display=swap');
+
+*{
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    background-image: url("../image/img-masp.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative; 
+
+}
+
+.titulo{
+    
+    color: white;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Shippori Antique B1', sans-serif;
+    font-size: 32px;    
+    font-style: oblique;
+    font-weight: 200;
+    background-color: rgb(37, 188, 248);
+    padding: 10px;
+
+}
+
+.resumo{
+    
+    padding: 15px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Shippori Antique B1', sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+iframe{
+    width: 1280px;
+    height: 720px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;  
+
+}
+
+#video{
+    text-align: center;
+}
+
+li{
+    
+    padding: 0px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Shippori Antique B1', sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+       
+}
+
+h2{
+    text-align: center;
+    font-size: 32px;
+    font-style: oblique;
+    font-weight: 200;
+    padding: 10px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Shippori Antique B1', sans-serif;
+    margin: 25px;
+}
+
+.icones {
+    margin: 20px;
+    width: 70px;
+    height: 70px;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+}
+
+#rodape {
+    text-align: center;
+    padding: 20px;
+}
+
+span{
+    background-color: #808080bb;
+}
